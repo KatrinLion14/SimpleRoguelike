@@ -30,3 +30,7 @@
 ### Материалы
 Видео с YouTube, где взяла идею про использование интерфейса для предметов взаимодействия: https://www.youtube.com/watch?v=u4TBbtq9uwk.
 И видео про healthbar: https://www.youtube.com/watch?v=PVgMkUwhtoM.
+
+
+### Google disk
+Если что-то где-то поломалось из-за гита, то вот ссылка на гугл диск: https://drive.google.com/drive/folders/1k0lR-A1nbAMUf7cisqYIYQNF9NypIMjV?usp=sharing
